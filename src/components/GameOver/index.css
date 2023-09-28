@@ -1,0 +1,33 @@
+.bg-trophy {
+  background-color: darkmagenta;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.score-container {
+  font-family: 'Roboto';
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.reset-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cf60c8;
+}
+
+.trophy-img {
+  width: 10%;
+}
+
+.name-Style {
+  color: yellow;
+  font-family: 'Bree Serif';
+}

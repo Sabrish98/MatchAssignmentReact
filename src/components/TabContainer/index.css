@@ -1,0 +1,15 @@
+.tab-list {
+  list-style-type: none;
+  margin-right: 10px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border-bottom: solid;
+  border-color: #fec653;
+}
+.tab-button {
+  background-color: transparent;
+  color: #ffffff;
+  border-width: 0px;
+  color: #fec653;
+}
