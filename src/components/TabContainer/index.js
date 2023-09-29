@@ -12,8 +12,8 @@ const TabContainer = props => {
   return (
     <div>
       <li className="tab-list">
-        <button type="button" className="tab-button">
-          <p onClick={tabChange}>{displayText}</p>
+        <button onClick={tabChange} type="button" className="tab-button">
+          <p>{displayText}</p>
         </button>
       </li>
     </div>
